@@ -1,5 +1,5 @@
-# ShowtimeHub
-Welcome to ShowtimeHub project! This is a web application designed to help users explore and discover movies and TV shows. 
+# moviehub
+Welcome to moviehub project! This is a web application designed to help users explore and discover movies and TV shows. 
 Features:
 Browse Movies and TV Shows: View a list of movies and TV shows with detailed information.
 Search Functionality: Easily search for your favorite movies and shows.
